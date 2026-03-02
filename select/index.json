@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "花図鑑 (NELKE ver.)",
+  "base_artist": "NELKE",
+  "createdAt": "2026-03-02T12:05:32.343431Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花図鑑 (NELKE ver.)",
+      "artist": "NELKE",
+      "has_synced": false,
+      "path": "select/pl_01_花図鑑_(NELKE_ver.)_NELKE.txt"
+    }
+  ]
+}
